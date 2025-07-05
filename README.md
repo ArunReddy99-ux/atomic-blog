@@ -132,18 +132,4 @@ Atomic Blog is a React-based blogging platform that allows users to view, search
 
 ---
 
-## Getting Started
 
-1. Install dependencies using your package manager.
-2. Start the development server.
-3. Open your browser at the provided local address.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-If you have any questions or want to contribute, feel free to open an issue or pull request!
